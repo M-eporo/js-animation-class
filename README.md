@@ -1,2 +1,2 @@
-# js-animation-class
-JavaScript Animation api 
+# JavaScript Animation Api 
+
